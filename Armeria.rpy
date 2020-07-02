@@ -7,3 +7,4 @@ label meeting Armeria:
 yoah "No wonder the Union wants to stay around me.)"
 yoah "(These 'people' are throwing things at me!)"
 yoah "(Not just words, but small stuffs such as pencils and erasers.)"
+yoah "(What did the humans do to have them act that way?)
