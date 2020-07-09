@@ -44,4 +44,11 @@ y "Okay!"
 "How exciting! He thought to himself."
 
 not_so_good_first_day:
-
+a "Good night."
+y "Good night!"
+y "Hooray! Let's see what my dorm looks like!"
+"*Creck...."
+"As soon as Yoah walked inside of his dorm. His legs began to stumble."
+y "What the heck?"
+"His vision spun around, and his stomach began to churn badly."
+"Something was about to come out and so, he were straight to the toilet."
