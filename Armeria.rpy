@@ -88,5 +88,8 @@ a "You're going to have sleep on my bed."
 y "What?! In your bed?!"
 y "Why that sounds..."
 y "Exciting! Woohoo!"
-"Just when Yoah was about to 
+"Just when Yoah was about to jump there, he came to a halt."
+"Then this came in mind."
+"Where was he going to sleep?"
+"He turned his head to Armeria, who stood there smiling at him."
 
