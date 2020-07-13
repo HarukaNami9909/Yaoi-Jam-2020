@@ -217,4 +217,4 @@ menu:
     a "Some of the member happened to be students, so I can't let them lose their study sessions and sleeping times."
     y "Then how come it's just you?"
     a "None of the other members have the skills to protect you properly."
-    a 
+    a "Oh, and that reminds me. 
