@@ -168,6 +168,17 @@ $ armeria_points = 10
 menu:
     "Can you stay away from me for a bit?":
     $ armeria_points = -2
+    "Armeria's smile faded, perhaps he didn't like that question."
+    "It was a simple truth, Yoah didn't want to create any more burdens to his popularity."
+    "He tried to open his mouth about it, but it never came out."
+    a "I'm afraid I cannot do that, Yoah."
+    y "Why not?"
+    a "It's because I am part of the Union."
+    y "What?! Why didn't you say so in the first place?!"
+    a "If I ever did, then..."
+    a "No, forget what I just said."
+    y "Huh?"
+    "Yoah cocked his head."
     jump personal_bodyguard
     
     "You seem to be popular...":
@@ -176,7 +187,10 @@ menu:
     a "Sorry. This is what I get for being a part of the Union."
     y "What?! You were one of them?!"
     y "Why didn't you tell me in the first place?!"
-    a "Apologies, my friend. I thought you already knew from the first place."
+    a "Apologies, my friend. I didn't want you know because...."
+    "Armeria paused his words and he lowered his eyes."
+    y "Armeria?"
+    "Yoah cocked his head."
     y "Then which position are you in?"
     "Armeria winked and placed his fingertip onto his lips."
     y "Let me guess, you're not telling me." 
