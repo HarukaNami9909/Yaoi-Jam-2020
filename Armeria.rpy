@@ -168,10 +168,21 @@ $ armeria_points = 10
 menu:
     "Can you stay away from me for a bit?":
     $ armeria_points = -2
+    jump personal_bodyguard
+    
     "You seem to be popular...":
     $ armeria_points = +2
     "A small smile came across his lips, letting a small gasp of relief."
     a "Sorry. This is what I get for being a part of the Union."
     y "What?! You were one of them?!"
+    y "Why didn't you tell me in the first place?!"
+    a "Apologies, my friend. I thought you already knew from the first place."
+    y "Then which position are you in?"
+    "Armeria winked and placed his fingertip onto his lips."
+    y "Let me guess, you're not telling me." 
+    a "Nope!"
+    jump personal_bodyguard
     
+ label personal_bodyguard:
+    y "*Sigh* let's change the subject."
     
