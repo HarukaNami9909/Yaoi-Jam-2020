@@ -179,6 +179,15 @@ menu:
     a "No, forget what I just said."
     y "Huh?"
     "Yoah cocked his head."
+    "Yoah cocked his head."
+    "Armeria suddenly became quiet, as if he were about to say something else."
+    "Suddenly, he lifted his head back up and smiled."
+    y "(That was strange. He's back in his old self again.)"
+    y "(Hmm... I shouldn't pry into his business. I should ask him something else then.)"
+    y "Then which position are you in?"
+    "Armeria winked and placed his fingertip onto his lips."
+    y "Let me guess, you're not telling me." 
+    a "Nope!"
     jump personal_bodyguard
     
     "You seem to be popular...":
@@ -191,6 +200,11 @@ menu:
     "Armeria paused his words and he lowered his eyes."
     y "Armeria?"
     "Yoah cocked his head."
+    "Armeria suddenly became quiet, as if he were about to say something else."
+    "Suddenly, he lifted his head back up and smiled."
+    y "(That was strange. He's back in his old self again.)"
+    y "(Hmm... I shouldn't pry into his business. I should ask him something else then.)"
+    a "Apologies. Would you like ask about something else?"
     y "Then which position are you in?"
     "Armeria winked and placed his fingertip onto his lips."
     y "Let me guess, you're not telling me." 
@@ -198,5 +212,9 @@ menu:
     jump personal_bodyguard
     
  label personal_bodyguard:
-    y "*Sigh* let's change the subject."
-    
+    y "So... does that mean you're my bodyguard?"
+    a "Personal bodyguard during study times and night times!"
+    a "Some of the member happened to be students, so I can't let them lose their study sessions and sleeping times."
+    y "Then how come it's just you?"
+    a "None of the other members have the skills to protect you properly."
+    a 
