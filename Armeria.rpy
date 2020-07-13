@@ -217,4 +217,10 @@ menu:
     a "Some of the member happened to be students, so I can't let them lose their study sessions and sleeping times."
     y "Then how come it's just you?"
     a "None of the other members have the skills to protect you properly."
-    a "Oh, and that reminds me. 
+    a "Oh, and that reminds me. I know we talked about this earlier, but I shouldn't take you to large scale places such as the cafeteria."
+    a "Mostly everything else too. This school is not a very safe place to be in."
+    y "Then where can I be safe?"
+    a "With me, of course."
+    y "Really?"
+    a "..."
+    "Suddenly, Armeria's expression changed. Yoah cocked his head he stared at his face."
