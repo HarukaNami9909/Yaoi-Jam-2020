@@ -147,3 +147,31 @@ y "(Oh well, maybe we'll talk about it another time.)"
 "***"
 #Seeing that it was extremely dangerous for Yoah to be exposed to a normal class and dormitory, Ohla suggested that Yoah studied in the library and stayed at the Union Chamber to rest until the situation in the dormitory and the academy had been controlled.
 "After that, Yoah and Armeria stepped out of Union Chambers and began to walk together."
+"The once noisy hallway had become dead silent, which made Yoah gulped and froze."
+a "What's wrong, Yoah?"
+y "Oh, uhh..."
+"Student #1" "Why is he so close to Armeria?"
+y "Huh?"
+"Suddenly, a loud whisper runs through his ears."
+"Student #2" "And he's talking to him so casually!"
+"Student #3" "A human is capable of tricking a monster's mind! They always pick the dirty words to say to gain their trust!"
+"Student #3" "I worry for Armeria's safety."
+"Yoah stopped his steps. He lowered his head, staring at the floor over nothing."
+"Those students that worried about Armeria. He's that well-known to the academy? If he is, then hanging with him would worsen his reputation."
+"Paying no mind to the harsh whispers, Armeria came towards him and gently touched his shoulder."
+a "What's wrong, Yoah?"
+"He looked at Yoah with worried eyes, surging surprised gasps and rising anger."
+"Smelling the wonderful scent of honey around him. He opened his mouth..."  
+
+$ armeria_points = 10
+
+menu:
+    "Can you stay away from me for a bit?":
+    $ armeria_points = -2
+    "You seem to be popular...":
+    $ armeria_points = +2
+    "A small smile came across his lips, letting a small gasp of relief."
+    a "Sorry. This is what I get for being a part of the Union."
+    y "What?! You were one of them?!"
+    
+    
