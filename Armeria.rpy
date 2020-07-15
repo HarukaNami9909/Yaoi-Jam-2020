@@ -249,4 +249,4 @@ menu:
     a "My point of view? Hmmm..."
     a "Humans... humans... they are bad... No..."
     "Armeria continues to mumber to himself 
-    "Armeria ponder
+   
