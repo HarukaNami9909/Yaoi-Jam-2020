@@ -240,5 +240,13 @@ menu:
     a "You're lying! I can tell from those eyes of yours that tells me everything!"
     a "You there! Take him back to the Union chambers! We shall discussed his punishment after classes."
     a "All of you, keep your eyes and ears up, members! Make sure it doesn't happen again!"
-    "The members nodded their head at Armeria, looking at him with worried eyes as if they were apoliziging to him."
-    "
+    "The members nodded their head at Armeria, looking at him with worried eyes as if they were apologizing to him."
+    "Yoah widen in surprise. Just looking on how much of his gentle personality that completely changed in a second."
+    
+    label library_scene:
+    #Learning more about beast and stuff.
+    y "Armeria, can you tell me about your point of view of humans?"
+    a "My point of view? Hmmm..."
+    a "Humans... humans... they are bad... No..."
+    "Armeria continues to mumber to himself 
+    "Armeria ponder
