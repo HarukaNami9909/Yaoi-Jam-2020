@@ -253,4 +253,6 @@ menu:
     y "Really?"
     "That came out unexpectly, even when he was looking at his face it looks like he wasn't kidding."
     
-   
+   label meeting_sisters:
+   a "Hello!"
+   "Tali" "I thought 
