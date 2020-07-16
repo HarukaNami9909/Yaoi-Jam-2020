@@ -273,6 +273,11 @@ menu:
    "Tali" "Excuse me, I'm actually thinking of an outfit for our human guest."
    "Lily" "Well, so am I!"
    a "Now, now you two. No fighting!"
-   a "I may have the perfect outfit, so I'll fetch the materials for you too!"
+   a "I may have the perfect outfit for him, so I'll fetch the materials for you two!"
+   "Leaving Yoah alone with the twins, they were back staring intently at him."
+   "Tali" "Jiiiiii"
+   "Lily" "Jiiiiii"
    
-   
+   menu:
+       "Umm... so how was the business made?":
+       "Don't say anything.":
