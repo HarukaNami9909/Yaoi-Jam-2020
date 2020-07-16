@@ -277,7 +277,12 @@ menu:
    "Leaving Yoah alone with the twins, they were back staring intently at him."
    "Tali" "Jiiiiii"
    "Lily" "Jiiiiii"
+   "Just standing there for a long time made Yoah wanting to look away from them, but their eyes are locked onto."
+   y "(Shouldn't the women be the ones who talks a lot? Why are they so quiet?)"
+   y "(Were they waiting for me to say something first?)"
+   y "Maybe... I should say something first? 
    
    menu:
        "Umm... so how was the business made?":
+       y "
        "Don't say anything.":
