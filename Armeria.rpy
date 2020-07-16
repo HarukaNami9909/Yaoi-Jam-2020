@@ -249,5 +249,8 @@ menu:
     a "My point of view? Hmmm..."
     a "Humans... humans... they are bad... No..."
     "Armeria continues to mumble to himself as he ponders."
-    "Yoah 
+    a "I would agree with you, Yoah."
+    y "Really?"
+    "That came out unexpectly, even when he was looking at his face it looks like he wasn't kidding."
+    
    
