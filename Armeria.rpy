@@ -272,5 +272,7 @@ menu:
    "Lily" "I thought you were going to go get it?"
    "Tali" "Well, excuse me. I'm actually thinking of an outfit for our guest."
    "Lily" "So am I!"
+   a "Now, now you two. No fighting!"
+   a "I may have the perfect outfit, so I'll fetch the materials for you too!"
    
    
