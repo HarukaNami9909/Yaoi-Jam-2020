@@ -248,5 +248,6 @@ menu:
     y "Armeria, can you tell me about your point of view of humans?"
     a "My point of view? Hmmm..."
     a "Humans... humans... they are bad... No..."
-    "Armeria continues to mumber to himself 
+    "Armeria continues to mumble to himself as he ponders."
+    "Yoah 
    
