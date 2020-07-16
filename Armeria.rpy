@@ -266,5 +266,11 @@ menu:
    y "Hello!"
    "..."
    "In complete silent, Tali and Lily stared at him intently."
+   "Yoah stood there, fidgetting his fingers while his heart beated fast."
+   "Was there something with him? Was it because of his race?"
+   "Tali" "Lily, aren't you going to get the ruler?"
+   "Lily" "I thought you were going to go get it?"
+   "Tali" "Well, excuse me. I'm actually thinking of an outfit for our guest."
+   "Lily" "So am I!"
    
    
