@@ -283,6 +283,16 @@ menu:
    y "Maybe... I should say something first? 
    
    menu:
-       "Umm... so how was the business made?":
-       y "
-       "Don't say anything.":
+       "Umm... I like Armeria?":
+       y "Uhh... I like Armeria?"
+       "Talis" "Oh? Like 
+       "Don't say anything." #(correct):
+       "Talis" "Yoah, was it?"
+       y "Ummm, yes!"
+       "Talis" "Are you perhaps... interested in the histories between the humans and the plants?"
+       y "Oh~ Do tell!"
+       "Lily" "*Phew! For a second there, I thought my petals were about to fly around soon!"
+       "Lily" "We finally found our way to break through our awkward silence!"
+       "Talis" "I'm so relieved! For a second there, I thought he was going to run away from us!"
+       
+       
