@@ -255,4 +255,16 @@ menu:
     
    label meeting_sisters:
    a "Hello!"
-   "Tali" "I thought 
+   "???" "I thought I heard you, Mary!"
+   "??? #2" "What?! He's here already?!"
+   y "Mary?"
+   a "A nickname my sisters gave me when I was a kid."
+   a "Don't mind them."
+   "Two women came out from the back of the store, greeting Armeria and Yoah with beautiful smiles on their faces."
+   "From the looks of them, they look identical to each other, Yoah can't tell which one is which."
+   a "Yoah, these are my sisters, Tali and Lily."
+   y "Hello!"
+   "..."
+   "In complete silent, Tali and Lily stared at him intently."
+   
+   
