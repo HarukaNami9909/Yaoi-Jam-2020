@@ -276,6 +276,10 @@ menu:
    a "Pick an outfit that you two thinks is the best! Isn't that what you guys would always do?"
    "The two women widened their eyes and looked at each other. A few giggles came out of their lips, perhaps they were making each other up for fighting."
    "Turning their heads at Yoah, they walk towards him and instructed him to raise his arms and don't move."
+   "Talis" "Hmm... I love a good challenge for someone like him!"
+   "Lily "Yes indeed! I wouldn't pick a flower or sticks to put on the inside just because he's a human!"
+   "Talis" "Yes, yes! Humans don't have branches or stems that can support the flowers!"
+   "Talis" "We'll have to put it outside the clothing!"
    
        
        
