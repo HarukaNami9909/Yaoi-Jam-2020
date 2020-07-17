@@ -281,5 +281,10 @@ menu:
    "Talis" "Yes, yes! Humans don't have branches or stems that can support the flowers!"
    "Talis" "We'll have to put it outside the clothing!"
    
-       
+ menu:
+     "How was the business made?"
+     "What kind of clothes do plant peoples usually wear?"
+     "Are you two married?"
+     #a -2
+     "Do you like this job?"
        
