@@ -273,26 +273,9 @@ menu:
    "Tali" "Excuse me, I'm actually thinking of an outfit for our human guest."
    "Lily" "Well, so am I!"
    a "Now, now you two. No fighting!"
-   a "I may have the perfect outfit for him, so I'll fetch the materials for you two!"
-   "Leaving Yoah alone with the twins, they were back staring intently at him."
-   "Tali" "Jiiiiii"
-   "Lily" "Jiiiiii"
-   "Just standing there for a long time made Yoah wanting to look away from them, but their eyes are locked onto."
-   y "(Shouldn't the women be the ones who talks a lot? Why are they so quiet?)"
-   y "(Were they waiting for me to say something first?)"
-   y "Maybe... I should say something first? 
+   a "Pick an outfit that you two thinks is the best! Isn't that what you guys would always do?"
+   "The two women widened their eyes and looked at each other. A few giggles came out of their lips, perhaps they were making each other up for fighting."
+   "Turning their heads at Yoah, they walk towards him and instructed him to raise his arms and don't move."
    
-   menu:
-       "Umm... I like Armeria?":
-       y "Uhh... I like Armeria?"
-       "Talis" "Oh? Like 
-       "Don't say anything." #(correct):
-       "Talis" "Yoah, was it?"
-       y "Ummm, yes!"
-       "Talis" "Are you perhaps... interested in the histories between the humans and the plants?"
-       y "Oh~ Do tell!"
-       "Lily" "*Phew! For a second there, I thought my petals were about to fly around soon!"
-       "Lily" "We finally found our way to break through our awkward silence!"
-       "Talis" "I'm so relieved! For a second there, I thought he was going to run away from us!"
        
        
