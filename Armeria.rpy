@@ -287,7 +287,9 @@ menu:
    "Sitting on a chair, Yoah watched as the three of them talked and laughed at fun conversations."
    "Talis" "Armeria have you gotten a girlfriend yet?"
    a "Me? No, I have not."
-   "Lily" "Really? You should take a break once in a while! You focused too much on your studies!"
+   "Lily" "Really? You know, you should take a break once in a while! You focused too much on your studies!"
+   "Talis" "Yeah! We often hear that you were prestigious at school! 
+   
    
  menu:
      "How was the business made?"
