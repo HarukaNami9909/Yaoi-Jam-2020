@@ -280,7 +280,14 @@ menu:
    "Lily "Yes indeed! I wouldn't pick a flower or sticks to put on the inside just because he's a human!"
    "Talis" "Yes, yes! Humans don't have branches or stems that can support the flowers!"
    "Talis" "We'll have to put it outside the clothing!"
-   "Yoah smiled, reflecting the same happiness 
+   "Yoah smiled, reflecting their current expressions as they continued to measure every inch of his body."
+   "After that, they hurried over to their counters and then they let Armeria helped them make some jewerlies."
+   "Yoah, on the other hand had to watch them make the clothing."
+   "They were afraid that some of the stuff would hurt him."
+   "Sitting on a chair, Yoah watched as the three of them talked and laughed at fun conversations."
+   "Talis" "Armeria have you gotten a girlfriend yet?"
+   a "Me? No, I have not."
+   "Lily" "Really? You should take a break once in a while! You focused too much on your studies!"
    
  menu:
      "How was the business made?"
@@ -289,7 +296,7 @@ menu:
      #a -2
      "Do you like this job?"
      # a -2
-     "What would happened if Armeria had a lover?"
+     "What would happened if Armeria had a male lover?"
      "Talis and Lily" "Oh?"
-     "The two answered spontaneously and grinned."
+     "The two answered spontaneously and looked at each other."
      
