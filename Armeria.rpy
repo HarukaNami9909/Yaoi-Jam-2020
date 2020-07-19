@@ -280,6 +280,7 @@ menu:
    "Lily "Yes indeed! I wouldn't pick a flower or sticks to put on the inside just because he's a human!"
    "Talis" "Yes, yes! Humans don't have branches or stems that can support the flowers!"
    "Talis" "We'll have to put it outside the clothing!"
+   "Yoah smiled, reflecting the same happiness 
    
  menu:
      "How was the business made?"
@@ -289,4 +290,6 @@ menu:
      "Do you like this job?"
      # a -2
      "What would happened if Armeria had a lover?"
+     "Talis and Lily" "Oh?"
+     "The two answered spontaneously and grinned."
      
