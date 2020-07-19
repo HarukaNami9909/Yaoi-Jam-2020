@@ -288,8 +288,10 @@ menu:
    "Talis" "Armeria have you gotten a girlfriend yet?"
    a "Me? No, I have not."
    "Lily" "Really? You know, you should take a break once in a while! You focused too much on your studies!"
-   "Talis" "Yeah! We often hear that you were prestigious at school! 
-   
+   "Talis" "Yeah! We often hear that you were prestigious at school! You often stay all night because of that school project of yours!" 
+   a "..."
+   "Armeria ceased his work. 
+   "The way his eyes looked down 
    
  menu:
      "How was the business made?"
