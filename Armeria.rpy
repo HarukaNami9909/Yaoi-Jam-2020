@@ -295,20 +295,21 @@ menu:
    a "What?! Why would you bring that up?"
    "Yoah widened his eyes as he faced Armeria with a reaction he had never seen before."
    "His face was completely red, even his leaves were rustling like crazy."
-   
-   
-   "You focused too much on that project of yours!"
-   a "..."
-   a "Again with that topic?"
-   "Armeria's face grew grim, as his hands trembled as he was making a bracelet for Yoah." 
-   "Talis" "You often stay all night because of that school project of yours! Maybe it's best for you to say enough already!"
-   "Talis" "We worry about you, Armeria! You would often come here, crying and frustated 
-   a "I know, but it's very important to me! I can't give up yet though."
-   "Armeria closed his eyes and ceased his work."
-   "The way his eyes looked down at the table. Is this 
+   y "(Do plants really react this way?)"
+   "As soon as they made eye, Armeria tried his best smile at him."
+   "It was trembling in embarassment. Yoah couldn't help but to giggle innocently a
+   "Talis" "So Yoah, do you have any questions for us?"
+   y "Huh?"
+   "Lily" "Oh, yes! You should join in the conversation too!"
+   "Lily" "We don't want you to get lonely!"
+   y "Wow, thank you guys! Hmm... you see Armeria already answered a lot of my questions from the plant people."
+   y "I might as well get to know you guys!"
+   "Talis" "Spendid! You can any questions you have!"
+   "Lily" "Oh, yes! Anything!"
    
  menu:
      "How was the business made?"
+     #a +2
      "What kind of clothes do plant peoples usually wear?"
      "Are you two married?"
      #a -2
