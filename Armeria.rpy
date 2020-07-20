@@ -314,18 +314,27 @@ menu:
    "Talis" "Spendid! You can any questions you have!"
    "Lily" "Oh, yes! Anything!"
    y "Okay, then let's start with..."
-   
+
+label 
  menu:
      "How's business going?"
      #a +2
      "Talis" "Armeria would always ask the same question."
      "Lily" "The business is the great as usual!"
+     "Lily" "
      
      "Are you two married?"
      #a -2
+     "Talis" "Sorry, Yoah. We are taken!"
+     "They lifted their left hands to show off their golden, circular rings."
+     "They smiled and giggled at him, perhaps they were making fun of him for trying to flirt with them." 
+     "Armeria, however was not paying attention to them. He contiuned to work on the jewelery without making a glance at Yoah."
+     y "(Was it something I said? Oops...)"
+     
      "Do you like this job?"
      # a -2
      "What would happened if Armeria had a male lover?"
+     a "...!"
      "Talis and Lily" "Oh?"
      "The two answered spontaneously and looked at each other."
      
