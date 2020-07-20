@@ -316,10 +316,11 @@ menu:
    y "Okay, then let's start with..."
    
  menu:
-     "How was the business made?"
+     "How's business going?"
      #a +2
-     "Talis" "Oooh~ that's a good question!"
-     "What kind of clothes do plant peoples usually wear?"
+     "Talis" "Armeria would always ask the same question."
+     "Lily" "The business is the great as usual!"
+     
      "Are you two married?"
      #a -2
      "Do you like this job?"
