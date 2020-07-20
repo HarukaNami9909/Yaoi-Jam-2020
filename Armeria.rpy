@@ -252,7 +252,14 @@ menu:
     a "I would agree with you, Yoah."
     y "Really?"
     "That came out unexpectly, even when he was looking at his face it looks like he wasn't kidding."
-    
+   
+   label Family_Tree:
+   a "Yoah."
+   y "Yeah?"
+   a "I'm afraid I have to make a temporary leave during our school break."
+   y "Why is that?"
+   a "
+   
    label meeting_sisters:
    a "Hello!"
    "???" "I thought I heard you, Mary!"
@@ -306,10 +313,12 @@ menu:
    y "I might as well get to know you guys!"
    "Talis" "Spendid! You can any questions you have!"
    "Lily" "Oh, yes! Anything!"
+   y "Okay, then let's start with..."
    
  menu:
      "How was the business made?"
      #a +2
+     "Talis" "Oooh~ that's a good question!"
      "What kind of clothes do plant peoples usually wear?"
      "Are you two married?"
      #a -2
