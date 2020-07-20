@@ -287,11 +287,25 @@ menu:
    "Sitting on a chair, Yoah watched as the three of them talked and laughed at fun conversations."
    "Talis" "Armeria have you gotten a girlfriend yet?"
    a "Me? No, I have not."
-   "Lily" "Really? You know, you should take a break once in a while! You focused too much on your studies!"
-   "Talis" "Yeah! We often hear that you were prestigious at school! You often stay all night because of that school project of yours!" 
+   "Lily" "Really? You know, you should take a break once in a while!"
+   "Talis" "Yeah, she would take care of you like we did when you were young!"
+   "Lily" "We feed you, we watered you, and we played with you often!"
+   "Talis" "Oh how I missed the times when Armeria would sometimes wet his bed whenever he gets a nightmare."
+   "Talis" "He would want to buried his soil with our."
+   a "What?! Why would you bring that up?"
+   "Yoah widened his eyes as he faced Armeria with a reaction he had never seen before."
+   "His face was completely red, even his leaves were rustling like crazy."
+   
+   
+   "You focused too much on that project of yours!"
    a "..."
-   "Armeria ceased his work. 
-   "The way his eyes looked down 
+   a "Again with that topic?"
+   "Armeria's face grew grim, as his hands trembled as he was making a bracelet for Yoah." 
+   "Talis" "You often stay all night because of that school project of yours! Maybe it's best for you to say enough already!"
+   "Talis" "We worry about you, Armeria! You would often come here, crying and frustated 
+   a "I know, but it's very important to me! I can't give up yet though."
+   "Armeria closed his eyes and ceased his work."
+   "The way his eyes looked down at the table. Is this 
    
  menu:
      "How was the business made?"
