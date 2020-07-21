@@ -321,7 +321,11 @@ label
      #a +2
      "Talis" "Armeria would always ask the same question."
      "Lily" "The business is the great as usual!"
-     "Lily" "
+     "Talis" "That's right! All of our clothing and jewelries are made by natural plants and our finest cloths!"
+     "Lily" "It's every style Armeria is wearing!"
+     y "So your sisters made your clothing?"
+     a "Yes! I always promote my sister's stores to everyone in my academy!"
+     
      
      "Are you two married?"
      #a -2
