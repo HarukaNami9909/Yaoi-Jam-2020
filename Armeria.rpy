@@ -333,8 +333,10 @@ label
      
      "Do you like this job?"
      # a -2
+     
      "What would happened if Armeria had a male lover?"
      a "...!"
      "Talis and Lily" "Oh?"
      "The two answered spontaneously and looked at each other."
-     
+     "Talis" "Of course, we would support him all the way!"
+     "Lily" "We would tease him more often 
