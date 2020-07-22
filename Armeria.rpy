@@ -324,8 +324,10 @@ label
      "Talis" "That's right! All of our clothing and jewelries are made by natural plants and our finest cloths!"
      "Lily" "It's every style Armeria is wearing!"
      y "So your sisters made your clothing?"
-     a "Yes! I always promote my sister's stores to everyone in my academy!"
-     
+     a "Of course they are! I wouldn't have to worry about my fashion senses every day!"
+     a "I would always promote my sister's store to everyone in my academy too!"
+     "Talis" "Don't you worry a thing about us!"
+     y "I'm glad!"
      
      "Are you two married?"
      #a -2
@@ -335,12 +337,19 @@ label
      "Armeria, however was not paying attention to them. He contiuned to work on the jewelery without making a glance at Yoah."
      y "(Was it something I said? Oops...)"
      
-     "Do you like this job?"
-     # a -2
-     
      "What would happened if Armeria had a male lover?"
      a "...!"
      "Talis and Lily" "Oh?"
      "The two answered spontaneously and looked at each other."
-     "Talis" "Of course, we would support him all the way!"
-     "Lily" "We would tease him more often 
+     "Yoah looked over at Armeria with his face complete red again, even his leaves were rustling too."
+     "Lily" "We would tease him more often since he wouldn't make his own children."
+     "Talis" "Well... we would still support him all the way!" 
+     "Talis" "He's still our little brother no matter who he is!"
+     
+label a_loving_family:
+"Yoah sat there with a light smile, watching as three siblings chatted happily to each other."
+"He wished he had a family like this..."
+"Mom" "Yoah, after you've done with your homework. You have to practice your piano playing and then, you have to meet up with your tutor for further studies!"
+y "Yes, mother."
+"It was all Yoah can say to her."
+
