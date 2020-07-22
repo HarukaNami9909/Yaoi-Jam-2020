@@ -258,7 +258,27 @@ menu:
    y "Yeah?"
    a "I'm afraid I have to make a temporary leave during our school break."
    y "Why is that?"
-   a "
+   a "Well, it's because I'm going to visit my sisters!"
+   y "You have siblings? How many?"
+   a "Two. They happened to be my older twin sisters."
+   y "Wow! Then what about your parents?"
+   a "Oh, my parents passed away when I was young
+   y "Armeria, I'm sorry! I didn't mean to pry!"
+   "Armeria laughed lightly."
+   a "It's okay! I'm used to it!"
+   a "What about yours, Yoah?"
+   y "My what?"
+   a "Your family? I bet you're worried sick about them! I bet they are too!"
+   y "..."
+   "Yoah lowered his eyes, his heart cringed. Not wanting Armeria to say those words to him."
+   a "What's wrong? Do you want to talk about them too?"
+   y "Oh, uhh..."
+   
+ menu:
+     "Don't tell them."
+     "Tell him."
+     
+     
    
    label meeting_sisters:
    a "Hello!"
