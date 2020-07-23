@@ -259,13 +259,20 @@ menu:
    a "I'm afraid I have to make a temporary leave during our school break."
    y "Why is that?"
    a "Well, it's because I'm going to visit my sisters!"
-   y "You have siblings? How many?"
+   y "Your sisters? How many?"
    a "Two. They happened to be my older twin sisters."
-   y "Wow! Then what about your parents?"
-   a "Oh, my parents passed away when I was young
-   y "Armeria, I'm sorry! I didn't mean to pry!"
-   "Armeria laughed lightly."
+   y "Wow! So you're their little brother? Then what about your parents?"
+   a "Oh, my parents passed away when I was very young. Only my sisters are my only family left."
+   y "Oh, I'm sorry! I didn't mean to pry!"
+   "Armeria laughed."
    a "It's okay! I'm used to it!"
+   y "So... you're just going to stay at your sister's place?"
+   a "Of course am I! I always promised to visit them often during the weekends and breaks!"
+   y "Sounds like you're close to them."
+   a "Of course! All families should be close to each other!"
+   "Yoah's chest tightened."
+   "'All families should be close...'"
+   "Can this be true?"
    a "What about yours, Yoah?"
    y "My what?"
    a "Your family? I bet you're worried sick about them! I bet they are too!"
@@ -275,11 +282,31 @@ menu:
    y "Oh, uhh..."
    
  menu:
-     "Don't tell them."
-     "Tell him."
+     "Don't tell him.":
+     y "..."
+     a "Yoah, is there something wrong?"
+     y "It's nothing."
+     a "Then why are you not looking at me?"
+     a "Is there something wrong with me?"
+     y "What? No! There's nothing wrong with you!"
      
+     "Tell him.": 
+     y "Armeria, you see..."
+     y "My family is not like yours."
+     a "Hm?"
+     "Armeria cocked his head."
+     "Yoah stratched his head, averting his eyes from him. He opened his mouth..."
+     y "My family were very strict on me. They never gave a lot of freedom for me to choose on what I wanted to do."
+     y "I do love them, but they never let me express how I feel about them."
+     y "They would keep saying, 'don't let your anything distract you!', 'You should keep up with your studies or we'll kick you out!'"
+     y "Oh, and did I mention that they have me marry a person I didn't get to choose."
+     y "I'm supposed to bear good children with her, but..."
+     "Yoah paused as he looked at Armeria, who nodded his head slowly. Yoah can tell that he was listening, from the start to the finish."
+     "Was is he going to say about this? He's know that it was very cheesy and it's completely opposite to his family. 
+     a "I'm so glad you told me all this, Yoah."
+     y "Huh?"
+     "Not the type of reaction Yoah expected."
      
-   
    label meeting_sisters:
    a "Hello!"
    "???" "I thought I heard you, Mary!"
