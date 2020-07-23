@@ -306,6 +306,8 @@ menu:
      a "I'm so glad you told me all this, Yoah."
      y "Huh?"
      "Not the type of reaction Yoah expected."
+     a "I was a bit worried if you didn't trust me."
+     a "It looks like you are!"
      
    label meeting_sisters:
    a "Hello!"
