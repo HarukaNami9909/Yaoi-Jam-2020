@@ -307,7 +307,9 @@ menu:
      y "Huh?"
      "Not the type of reaction Yoah expected."
      a "I was a bit worried if you didn't trust me."
-     a "It looks like you are!"
+     a "Otherwise, I would have thought that I wasn't the right bodyguard for you!"
+     y "What?"
+     y "(Did you had to think that far?!)"
      
    label meeting_sisters:
    a "Hello!"
