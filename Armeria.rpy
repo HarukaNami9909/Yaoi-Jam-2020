@@ -251,7 +251,12 @@ menu:
     "Armeria continues to mumble to himself as he ponders."
     a "I would agree with you, Yoah."
     y "Really?"
-    "That came out unexpectly, even when he was looking at his face it looks like he wasn't kidding."
+    "That came out unexpectly, even when he was looking at his face. It looks like he wasn't kidding."
+    a "Humans are bad, but there are many good things about them too."
+    a "Really, it just depends on their situations. They choose on what's right or wrong. Aren't they very interesting creatures, Yoah?"
+    "Yoah shrugged his shoulders. Showing him that his opinion was okay, however, he was surprised to hear the exact same opinion from a nonhuman being."
+    "It was Armeria's opinion, but what made him think this way?"
+    "Yoah would like to know more about him..."
    
    label Family_Tree:
    a "Yoah."
@@ -403,4 +408,10 @@ label a_loving_family:
 "Mom" "Yoah, after you've done with your homework. You have to practice your piano playing and then, you have to meet up with your tutor for further studies!"
 y "Yes, mother."
 "It was all Yoah can say to her."
+"Never able to express their love. They can only stop, stare, and talk about Yoah's future."
+"There was nothing else he can ever talk about with his mother and his father. It was nothing but distanced despair... and then, he eventually stopped thinking."
+a "Yoah! Yoah!"
+y "Huh?!"
+"All the sudden, his vision went from blank to a sight of pretty eyes that stare right back at him."
+
 
